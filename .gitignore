@@ -2,3 +2,13 @@
 *.log
 
 *.gz
+
+*.aux
+
+*.lof
+
+*.lot
+
+*.out
+
+*.toc
