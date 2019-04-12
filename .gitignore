@@ -12,3 +12,9 @@
 *.out
 
 *.toc
+
+*.dvi
+
+*.bbl
+
+*.blg
